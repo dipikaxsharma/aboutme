@@ -16,6 +16,6 @@ Links to web development resources:
 - https://github.com/JacobWylie/Web-Dev-Learning-Resources.git
 
 - Contributor:
-Dipika Sharma
-Computer Science
+- Dipika Sharma
+- Computer Science
 https://en.wikipedia.org/wiki/Gokyo_Lakes#/media/File:The_beuaty_of_Gokyo_Lake.jpg
