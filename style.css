@@ -1,0 +1,19 @@
+.bg-color {
+    background-color: #eee;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/704/302/377/digital-art-colorful-minimalism-abstract-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-circle{
+    border-radius: 50%;
+}
+
+section {
+    border: 2px solid #333;
+    padding: 5px;
+    margin: 10px;
+    background-color: #999;
+    color: #fff;
+    border-radius: 10px;
+}
